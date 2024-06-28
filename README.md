@@ -172,4 +172,26 @@ Robert W. Chin, Padden Engineering, Peggy Lane, BP, and Victor van Asperen, Tech
 03 January 2019
 https://pubs.spe.org/en/ogf/ogf-article-detail/?art=4934
 
+The Savvy Separator: A Century of Carry-Over—0.1 gal/MMscf
+M. Nelson
+17 May 2020
+https://jpt.spe.org/savvy-separator-century-carry-over01-galmmscf
+
+Savvy Separator Educational Video Series Now Available
+The newly launched video series featuring speaker Bob Chin, the creator and editor of the OGF Savvy Separator Series of articles, provides a basic level of understanding of separator design and troubleshooting
+14 Oct 2020 
+
+SPE Webinar: Level Design and Control in Gravity Separators
+Richard Arntzen, senior process engineer and principal technical expert with Shell, will be presenting an SPE Separations Technology Technical Section Webinar on 22 April.
+20 Apr 2021
+
+The Savvy Separator: Oil/Water Separation and Gas Processing Facilities—Impact of Process Flow Conditions on Level Measurements
+Wally Georgie
+14 Jun 2021
+https://jpt.spe.org/the-savvy-separator-oil-water-separation-and-gas-processing-facilities-impact-of-process-flow-conditions-on-level-measurements
+
+Are the Separators Really at Fault? Part 1—Design
+Robert Chin
+19 May 2024
+https://jpt.spe.org/are-the-separators-really-at-fault-part-1-design
 
