@@ -195,3 +195,15 @@ Robert Chin
 19 May 2024
 https://jpt.spe.org/are-the-separators-really-at-fault-part-1-design
 
+Savvy Separator: Are the Separators Really at Fault? Part 2— Installation
+Robert Chin, Moize Turkey
+1 Jul 2024
+https://jpt.spe.org/savvy-separator-are-the-separators-really-at-fault-part-2-installation
+
+Savvy Separator: Are the Separators Really at Fault? Part 3—Instrumentation and Operations
+Robert Chin, Jimmie Riesenberg
+24 Jul 2024
+https://jpt.spe.org/savvy-separator-are-the-separators-really-at-fault-part-3-instrumentation-and-operations
+
+
+
