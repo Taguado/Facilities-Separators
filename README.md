@@ -200,10 +200,26 @@ Robert Chin, Moize Turkey
 1 Jul 2024
 https://jpt.spe.org/savvy-separator-are-the-separators-really-at-fault-part-2-installation
 
+
 Savvy Separator: Are the Separators Really at Fault? Part 3—Instrumentation and Operations
 Robert Chin, Jimmie Riesenberg
 24 Jul 2024
 https://jpt.spe.org/savvy-separator-are-the-separators-really-at-fault-part-3-instrumentation-and-operations
 
 
+Savvy Separator: Lessons Learned in Reusing a Separator Without Proper Design Review
+Federico Petracci
+12 Nov 2024
+https://jpt.spe.org/savvy-separator-part-4-lessons-learned-in-reusing-a-separator-without-proper-design-review
 
+
+Savvy Separator: Produced-Water Degassers/Flash Drums and Their Evolution Into Flotation Units
+James Vanjo-Carnell
+16 Jul 2025
+https://jpt.spe.org/savvy-separator-produced-water-degassers-flash-drums-and-their-evolution-into-flotation-units
+
+
+A Savvy Separator Library
+Robert Chin, Logan Grim, Jimmie Riesenberg, Ed Grave
+18 Aug 2025
+https://jpt.spe.org/a-savvy-separator-library
